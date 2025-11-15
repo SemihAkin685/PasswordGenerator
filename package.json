@@ -1,0 +1,12 @@
+{
+  "name": "PasswordGenerator",
+  "version": "1.0.0",
+  "description": "You can create a password with the PassWordGenerator.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "SemihAkin685",
+  "license": "MIT"
+}
